@@ -1,0 +1,26 @@
+body{
+    background: #3f3958;
+}
+
+#arrow{
+    color :  #3f3958;
+    font-size: 40px;
+}
+.div1{
+    margin-top: 50px;
+    margin-left: 70%;
+}
+
+#arrow-btn{
+     color: white;
+}
+#arrow-btn:hover{
+    background: blue;
+}
+.div2{
+    color: white;
+    position: absolute;
+    top: 10%;
+    left:10%;
+    font-size: 30px;
+}
